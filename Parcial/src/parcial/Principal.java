@@ -8,7 +8,7 @@ import Formulario.FrmNotas;
 
 /**
  *
- * @author Carlitos
+ * @author Yesleidis
  */
 public class Principal {
 
