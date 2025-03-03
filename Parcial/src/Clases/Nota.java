@@ -6,7 +6,7 @@ package Clases;
 
 /**
  *
- * @author Carlitos
+ * @author Yesleidis
  */
 public class Nota {
    private float nota1, nota2, nota3;
