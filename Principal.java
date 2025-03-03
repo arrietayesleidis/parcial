@@ -6,7 +6,7 @@ package parcial;
 
 /**
  *
- * @author Carlitos
+ * @author yesleidis
  */
 public class Principal {
 
