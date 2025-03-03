@@ -6,7 +6,7 @@ package Clases;
 
 /**
  *
- * @author Carlitos
+ * @author yesleidis
  */
 public class Nota {
    private double nota1, nota2, nota3;
