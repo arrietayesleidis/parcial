@@ -6,7 +6,7 @@ package Formulario;
 
 /**
  *
- * @author Carlitos
+ * @author yesleidis
  */
 public class FrmNotas extends javax.swing.JFrame {
 
