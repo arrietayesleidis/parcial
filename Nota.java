@@ -61,6 +61,10 @@ public class Nota {
      */
     public void setNota3(double nota3) {
         this.nota3 = nota3;
+
+       public static float calcularNota(float nota1,float nota2,float nota3){
+    return (float) (nota1*0.3+nota2*0.3+nota3*0.4);
+    }
     }
         
         
