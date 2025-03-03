@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Carlitos
+ * @author Yesleidis
  */
 public class FrmNotas extends javax.swing.JFrame {
 
